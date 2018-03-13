@@ -1,0 +1,10 @@
+{
+  "name": "lex",
+  "description": "alexa skill to set in firebase",
+  "memory": 128,
+  "timeout": 10,
+  "role": "arn:aws:iam::098636322142:role/Apex",
+  "environment": {}
+}
+
+
